@@ -3,6 +3,7 @@ Acest proiect dezvoltă un model de învățare automată care prezice categoria
 Scopul este de a automatiza clasificarea produselor într-un magazin online și de a reduce timpul de muncă manuală.
 
 ## Structura proiectului
+```my project
 ml-product-reviews-project/
 │
 ├── data/ # Setul de date folosit pentru antrenare
